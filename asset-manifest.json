@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lissnight/static/css/main.a3341fcc.chunk.css",
+    "main.js": "/lissnight/static/js/main.d19cfe04.chunk.js",
+    "main.js.map": "/lissnight/static/js/main.d19cfe04.chunk.js.map",
+    "runtime-main.js": "/lissnight/static/js/runtime-main.c821623a.js",
+    "runtime-main.js.map": "/lissnight/static/js/runtime-main.c821623a.js.map",
+    "static/css/2.fc5a9450.chunk.css": "/lissnight/static/css/2.fc5a9450.chunk.css",
+    "static/js/2.da332650.chunk.js": "/lissnight/static/js/2.da332650.chunk.js",
+    "static/js/2.da332650.chunk.js.map": "/lissnight/static/js/2.da332650.chunk.js.map",
+    "index.html": "/lissnight/index.html",
+    "precache-manifest.c5b5f9d19029f0ce5464af16dacde171.js": "/lissnight/precache-manifest.c5b5f9d19029f0ce5464af16dacde171.js",
+    "service-worker.js": "/lissnight/service-worker.js",
+    "static/css/2.fc5a9450.chunk.css.map": "/lissnight/static/css/2.fc5a9450.chunk.css.map",
+    "static/css/main.a3341fcc.chunk.css.map": "/lissnight/static/css/main.a3341fcc.chunk.css.map",
+    "static/js/2.da332650.chunk.js.LICENSE.txt": "/lissnight/static/js/2.da332650.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c821623a.js",
+    "static/css/2.fc5a9450.chunk.css",
+    "static/js/2.da332650.chunk.js",
+    "static/css/main.a3341fcc.chunk.css",
+    "static/js/main.d19cfe04.chunk.js"
+  ]
+}
