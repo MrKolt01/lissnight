@@ -1,0 +1,41 @@
+header > span > span {
+  height: 100%;
+}
+
+header > span > span > span.ant-input-group-addon > button {
+  height: 64px;
+  width: 64px;
+  background-color: #282828;
+  border: 0;
+}
+
+.SearchInput_Search__sLEE_.ant-input-search-enter-button.ant-input-search-large.ant-input-affix-wrapper.ant-input-affix-wrapper-lg > span > span > svg {
+  color: #282828;
+  width: 30px;
+  height: 30px;
+}
+
+.SearchInput_Search__sLEE_ > input {
+  background-color: transparent;
+  color: white;
+}
+
+.ant-input-wrapper {
+  display: flex !important;
+}
+
+.ant-input-group-addon {
+  width: 64px;
+}
+
+.MuiAutocomplete-root {
+  width: 400px;
+  align-items: center;
+  display: flex;
+}
+
+.MuiFormControl-root {
+  margin: 0 !important;
+}
+
+/*# sourceMappingURL=SearchInput.css.map */

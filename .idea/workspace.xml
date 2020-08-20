@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb2f7a79-f7d5-4bf4-9f35-cf66f014f215" name="Default Changelist" comment="init lissnight build">
+      <change beforePath="$PROJECT_DIR$/LissNight.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LissNight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LissNightText.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.eaa4602a9bf6b239427092b142d7124f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/2.fc5a9450.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/2.fc5a9450.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.60a9a4b5.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.60a9a4b5.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.da332650.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.da332650.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.da332650.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.7f736a69.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.7f736a69.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.4d8a2de2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.4d8a2de2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vktube.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vktube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vktube192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vktube2.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vktube2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vktube512.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gMp115Lx3d0IRyEkQEJASY6kVp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\lissnight.github.io" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb2f7a79-f7d5-4bf4-9f35-cf66f014f215" name="Default Changelist" comment="" />
+      <created>1597934098028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597934098028</updated>
+      <workItem from="1597934099255" duration="1849000" />
+      <workItem from="1597936123874" duration="273000" />
+    </task>
+    <task id="LOCAL-00001" summary="init lissnight build">
+      <created>1597934956599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597934956599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init lissnight build" />
+    <option name="LAST_COMMIT_MESSAGE" value="init lissnight build" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="415" key="#Prettier" timestamp="1597936477341">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="690" y="415" key="#Prettier/1920.37.1536.827/0.46.1920.1034/3840.0.1280.680/5120.0.1280.680@0.46.1920.1034" timestamp="1597936477341" />
+    <state x="552" y="295" key="Vcs.Push.Dialog.v2" timestamp="1597934959850">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="552" y="295" key="Vcs.Push.Dialog.v2/1920.37.1536.827/0.46.1920.1034/3840.0.1280.680/5120.0.1280.680@0.46.1920.1034" timestamp="1597934959850" />
+  </component>
+</project>

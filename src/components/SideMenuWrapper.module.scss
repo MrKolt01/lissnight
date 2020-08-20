@@ -1,0 +1,10 @@
+.Menu{
+  background: transparent !important;
+  overflow-y: hidden;
+  max-height: 100%;
+  overflow-x: hidden;
+  &:hover, &:focus, &:active{
+    overflow-y: auto;
+  }
+  scrollbar-width: thin;
+}

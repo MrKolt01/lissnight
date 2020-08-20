@@ -1,0 +1,60 @@
+.Menu {
+  position: relative !important;
+  background: transparent !important;
+  border-right: 0 !important;
+  overflow-x: hidden;
+  padding: 0 8px;
+}
+.Menu .ListEl {
+  border-radius: 4px !important;
+  height: 40px !important;
+  padding: 0 16px !important;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #b3b3b3;
+}
+.Menu .ListEl:hover {
+  color: white;
+}
+.Menu .ListEl .Text {
+  display: flex;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: normal;
+  text-transform: none;
+}
+.Menu .ListEl .Icon {
+  color: #b3b3b3;
+  min-width: 40px !important;
+  width: 40px !important;
+}
+.Menu .ListEl .IconSelected {
+  color: white;
+  min-width: 40px !important;
+  width: 40px !important;
+}
+.Menu .ListElSelected {
+  color: white;
+  border-radius: 4px !important;
+  height: 40px !important;
+  padding: 0 16px !important;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.Menu .SubHeader {
+  text-align: left;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  background-color: black;
+}
+
+/*# sourceMappingURL=SideMenu.module.css.map */

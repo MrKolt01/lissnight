@@ -1,0 +1,34 @@
+.Info{
+  flex-wrap: nowrap !important;
+  .Image{
+    object-fit: cover;
+  }
+  .Meta{
+    display: flex;
+    margin: 0 14px;
+    overflow: hidden;
+    flex-direction: column;
+    .SongName{
+      @extend %ellipsis-one-line;
+      font-size: 14px;
+      line-height: 20px;
+      letter-spacing: .015em;
+      color: #fff;
+      text-align: left;
+    }
+    .Artist{
+      @extend %ellipsis-one-line;
+      font-size: 12px;
+      line-height: 16px;
+      letter-spacing: .015em;
+      text-align: left;
+    }
+  }
+}
+
+%ellipsis-one-line{
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

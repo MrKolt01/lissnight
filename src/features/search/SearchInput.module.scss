@@ -1,0 +1,11 @@
+.Search{
+  //padding-left: 20px;
+  //padding-right: 20px;
+  background-color: transparent;
+  color:white;
+  border: 0;
+  height: 100%;
+  &:focus{
+    border:0;
+  }
+}

@@ -1,0 +1,35 @@
+#root {
+  text-align: center;
+  min-height: -webkit-fill-available;
+  max-height: -webkit-fill-available;
+  /*background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e6ba0682-c378-4369-a4a6-4f2a5f353743/de1zn5v-35a6ef42-beba-40de-8558-7db77b9d70dc.png/v1/fill/w_1280,h_1053,q_80,strp/illustrations_by_apollumix_de1zn5v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMDUzIiwicGF0aCI6IlwvZlwvZTZiYTA2ODItYzM3OC00MzY5LWE0YTYtNGYyYTVmMzUzNzQzXC9kZTF6bjV2LTM1YTZlZjQyLWJlYmEtNDBkZS04NTU4LTdkYjc3YjlkNzBkYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.__CE8h-Cvn9v7jpT8piXBPZJZgynjnNeSCCIRMqIMgE') center;*/
+  /*background-size: cover;*/
+  background-color: #121212;
+}
+
+.ant-layout{
+  background: transparent;
+  /*background: rgba(0, 0, 0, 0.31);*/
+  /*background-color: #282828;*/
+}
+
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: .5em;
+  height: .5rem;
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: hsla(0,0%,100%,.3);
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: transparent;
+}
+
+.ellipsis-one-line{
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

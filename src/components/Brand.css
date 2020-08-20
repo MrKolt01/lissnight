@@ -1,0 +1,14 @@
+.MenuLogo {
+  display: flex;
+  align-items: center;
+  padding: 8px 0 8px 15px;
+  overflow: hidden;
+}
+
+.Brand {
+  height: 50px;
+  max-height: 50px;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=Brand.css.map */

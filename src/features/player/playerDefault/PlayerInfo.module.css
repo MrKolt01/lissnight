@@ -1,0 +1,34 @@
+.Info {
+  flex-wrap: nowrap !important;
+}
+.Info .Image {
+  object-fit: cover;
+}
+.Info .Meta {
+  display: flex;
+  margin: 0 14px;
+  overflow: hidden;
+  flex-direction: column;
+}
+.Info .Meta .SongName {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.015em;
+  color: #fff;
+  text-align: left;
+}
+.Info .Meta .Artist {
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.015em;
+  text-align: left;
+}
+
+.Info .Meta .SongName, .Info .Meta .Artist {
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=PlayerInfo.module.css.map */

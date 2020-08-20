@@ -1,0 +1,11 @@
+.AppBar{
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: rgb(179, 179, 179);
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  padding: 0 16px !important;
+}

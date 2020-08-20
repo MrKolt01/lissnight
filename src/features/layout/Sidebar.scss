@@ -1,0 +1,14 @@
+.ant-layout-sider-trigger{
+  position: sticky;
+  width: auto;
+  background-color: #282828;
+}
+
+div.ant-layout-sider-children li.ant-menu-item.ant-menu-item-selected{
+  background-color: #282828 !important;
+}
+
+//.ant-layout-sider-children{
+//  padding-right: 8px;
+//  padding-left: 8px;
+//}

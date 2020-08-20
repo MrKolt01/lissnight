@@ -1,0 +1,11 @@
+.Search {
+  background-color: transparent;
+  color: white;
+  border: 0;
+  height: 100%;
+}
+.Search:focus {
+  border: 0;
+}
+
+/*# sourceMappingURL=SearchInput.module.css.map */

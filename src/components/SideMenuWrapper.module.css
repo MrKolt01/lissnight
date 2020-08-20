@@ -1,0 +1,12 @@
+.Menu {
+  background: transparent !important;
+  overflow-y: hidden;
+  max-height: 100%;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+}
+.Menu:hover, .Menu:focus, .Menu:active {
+  overflow-y: auto;
+}
+
+/*# sourceMappingURL=SideMenuWrapper.module.css.map */

@@ -1,0 +1,10 @@
+.MuiDivider-root {
+  margin-top: 8px !important;
+  margin-bottom: 8px !important;
+}
+
+.MuiDrawer-root {
+  height: calc( 100% - 70px);
+}
+
+/*# sourceMappingURL=SideMenu.css.map */
